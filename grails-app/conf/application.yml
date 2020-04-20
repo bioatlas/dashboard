@@ -226,3 +226,5 @@ downloadsByUserTypePanel:
   enabled: true
 speciesImagesPanel:
   enabled: true
+headerButtons:
+  enabled: true
